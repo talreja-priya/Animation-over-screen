@@ -3,7 +3,7 @@
 AnimationView is written in swift. It is a subclass of UIView and highly customizable. 
 
 <p align="center">
-  <img src="animation.gif" alt="animation" width="473.6" height="198">
+  <img src="animation.gif" alt="animation" width="198" height="320">
 </p>
 
 ## Installation
